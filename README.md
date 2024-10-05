@@ -1,0 +1,1 @@
+# plugins-pe-easy-slider
